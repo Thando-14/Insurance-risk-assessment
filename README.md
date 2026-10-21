@@ -1,8 +1,8 @@
-# 🚗 Insurance Fraud and Risk Assessment System
+# Insurance Fraud and Risk Assessment System
 
 ### Business Intelligence | Microsoft Power BI | Risk Analytics
 
-## 📌 Project Overview
+## Project Overview
 
 The **Insurance Fraud and Risk Assessment System** is a Business Intelligence (BI) project developed to support motor insurance claim risk assessment and potential fraud investigation in the Indian motor insurance sector.
 
